@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/2017.9.4java实训/carrot_and_rabbit/rabbit_and_carrot/lib/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
